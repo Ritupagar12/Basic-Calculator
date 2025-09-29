@@ -1,4 +1,4 @@
-# Simple Calculator
+# Basic Calculator
 
 A **web-based calculator** built with HTML, CSS, and JavaScript. This simple calculator supports basic arithmetic operations including addition, subtraction, multiplication, division, and decimal calculations.
 
@@ -45,7 +45,7 @@ The result is displayed dynamically in the input field at the top of the calcula
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/simple-calculator.git
+git clone https://github.com/Ritupagar12/basic-calculator.git
 ```
 2. Navigate to the project folder:
 ```bash
